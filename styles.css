@@ -1,4 +1,12 @@
 h1 {
-    color: red; 
-}
+    color: red;
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+}   
 
+p {
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+}
